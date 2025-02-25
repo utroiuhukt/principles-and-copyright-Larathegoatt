@@ -12,3 +12,29 @@ justifies the ethical importance of free software by asserting that software sho
 3-What is the difference between "open source" and "free software"?
 free software focus on the ethical and moral rights of the users to control the software they use,they can modify and make the code for themselves.
 open source focuses on the benefits of the developers by improving the code and taking benefit of sharing the modifications in it.
+
+
+
+
+
+
+
+
+
+
+
+
+ETHICAL ESSAY
+AI AND COPYRIGHT
+The ethical dillema presented in this article is yhe copyright and how the big countries like china, USA , Rusia, etc are actually using 
+a ilegal library with millions of documents "blocked" beacause copyrights 
+
+
+
+
+
+
+
+
+
+
