@@ -28,6 +28,13 @@ ETHICAL ESSAY
 AI AND COPYRIGHT
 The ethical dillema presented in this article is yhe copyright and how the big countries like china, USA , Rusia, etc are actually using 
 a ilegal library with millions of documents "blocked" beacause copyrights 
+The ethical problem here is how governments are using this type of documents with total liberty to improve his AI projects and try to win
+against other countries who are using this "ilegal" data as well. meanwhile us the normal people have no access to this and if you do this
+will be illegal.
+this problem directly relates with the software libre principles with the users rights,freedom and transparency.
+one of the software libre principles is the freedom to run,modify and distribute software which is fully obstaculed by the copyright blocking the ability to share knowledge to other people.
+In the world of software libre, transparency is vital. Users must have access to source code and be able to understand how a system operates.
+this archive alligns with transperency of software libre ensuring the critical and important information by not hiding it behind pays or licensing terms promoting an open and informed society and not just getting information for big companies and enterprises.
 
 
 
